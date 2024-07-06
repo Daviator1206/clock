@@ -15,10 +15,19 @@ html {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #7959c5;
+    background-image: url("giphy.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
     
   }
   #main{
     font-size: 70px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
-  
+  #num2{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
